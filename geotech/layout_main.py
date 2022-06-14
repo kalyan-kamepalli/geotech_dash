@@ -6,7 +6,6 @@ from geotech import (
     home,
     user_data,
     settlement,
-    construction,
     piezo,
     crest_toe,
     guo_chu,
